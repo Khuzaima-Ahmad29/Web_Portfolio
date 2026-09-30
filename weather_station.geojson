@@ -1,0 +1,290 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Islamabad",
+        "temp": 28,
+        "rainfall": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0479,
+          33.6844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Lahore",
+        "temp": 35,
+        "rainfall": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3587,
+          31.5204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Karachi",
+        "temp": 23,
+        "rainfall": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0011,
+          24.8607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Peshawar",
+        "temp": 22,
+        "rainfall": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5249,
+          34.0151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Quetta",
+        "temp": 18,
+        "rainfall": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.0099,
+          30.1798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Faisalabad",
+        "temp": 34,
+        "rainfall": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.079,
+          31.4504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Rawalpindi",
+        "temp": 27,
+        "rainfall": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0169,
+          33.5651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Multan",
+        "temp": 37,
+        "rainfall": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.5249,
+          30.1575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Hyderabad",
+        "temp": 33,
+        "rainfall": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.3578,
+          25.396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Gujranwala",
+        "temp": 33,
+        "rainfall": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1883,
+          32.1877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Sialkot",
+        "temp": 31,
+        "rainfall": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5313,
+          32.4945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Bahawalpur",
+        "temp": 38,
+        "rainfall": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.6833,
+          29.4
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Sukkur",
+        "temp": 39,
+        "rainfall": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.857,
+          27.7052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Sargodha",
+        "temp": 32,
+        "rainfall": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6711,
+          32.0836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Abbottabad",
+        "temp": 20,
+        "rainfall": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2215,
+          34.1688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Muzaffarabad",
+        "temp": 24,
+        "rainfall": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4708,
+          34.37
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Gilgit",
+        "temp": 16,
+        "rainfall": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.308,
+          35.9208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Skardu",
+        "temp": 12,
+        "rainfall": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6333,
+          35.2971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "station": "Gwadar",
+        "temp": 29,
+        "rainfall": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62.3225,
+          25.1216
+        ]
+      }
+    }
+  ]
+}
